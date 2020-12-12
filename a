@@ -1,5 +1,10 @@
 test a
+{% test a %}
 test a
+{% endtest  %}
 test a
+{% past a %}
 bbbbbbbb
+{{ best }}
 test a
+{% endpast a %}
