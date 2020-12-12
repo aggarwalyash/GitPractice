@@ -2,9 +2,14 @@ test a
 {% test a %}
 test a
 {% endtest  %}
+{% develop %}
 test a
 {% past a %}
 bbbbbbbb
 {{ best }}
 test a
 {% endpast a %}
+test a
+test a
+{% enddevelop %}
+
